@@ -1,0 +1,12 @@
+/web/target/
+/business/target/
+/backend/target/
+
+.idea/**
+
+target/**
+
+# packages
+*.jar
+*.war
+*.ear
